@@ -1,2 +1,2 @@
 # githubpractice
-This my practice repository when I am learning git and github
+This is my practice repository so that I learn git and github
